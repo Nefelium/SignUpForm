@@ -1,0 +1,25 @@
+PODS:
+  - AKMaskField (2.0.3)
+  - IQKeyboardManagerSwift (5.0.0)
+  - RxCocoa (4.0.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.0.0)
+  - SwiftValidators (7.0.1)
+
+DEPENDENCIES:
+  - AKMaskField
+  - IQKeyboardManagerSwift (= 5.0.0)
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SwiftValidators
+
+SPEC CHECKSUMS:
+  AKMaskField: b6d147524813e62cd3f15475fa2200ce7a3d2620
+  IQKeyboardManagerSwift: 3f340202ebe1a7076279b9b9b3c817243ddb3aab
+  RxCocoa: d62846ca96495d862fa4c59ea7d87e5031d7340e
+  RxSwift: fd680d75283beb5e2559486f3c0ff852f0d35334
+  SwiftValidators: cd7d8e058051bf59210216e80f4df97e6b1a6901
+
+PODFILE CHECKSUM: 14689d1cbcd30be0933824c00cdacc3fbcb2ed16
+
+COCOAPODS: 1.3.1
